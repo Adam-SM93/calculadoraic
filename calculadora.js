@@ -18,4 +18,4 @@ function raizCuadrada(a) {
   return Math.sqrt(a);
 }
 
-module.exports = { sumar, restar, multiplicar, dividir, raizCuadrada };
+module.exports = { sumar, restar, multiplicar, dividir };
